@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<db-info>
+		<db-name>example</db-name>
+		<driver-name>com.mysql.jdbc.Driver</driver-name>
+		<url>jdbc:mysql://localhost/example?</url>
+		<username>root</username>
+		<password>ljxf</password>
+	</db-info>
+</config>
